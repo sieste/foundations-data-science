@@ -7,7 +7,7 @@ This is the textbook for the Foundations of Data Science class at UC Berkeley.
 data8.org
 UC Berkeley Foundations of Data Science Course
 
-https://www.cs.cornell.edu/jeh/book.pdf 
+https://www.cs.cornell.edu/jeh/book.pdf
 Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan (2018) 466 pages
 
 
@@ -78,8 +78,18 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 # Artificial Neural Networks
 
 - Rosenblatt F (1958): The perceptron: A probabilistic model for information storage and organization in the brain. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
-- Werbos P (1990): Backpropagation Through Time: What It Does and How to Do It 
+- Werbos P (1990): Backpropagation Through Time: What It Does and How to Do It
 [Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=58337) (early review paper)
+- Hochreiter S, Schmidhuber J (1997): Long short-term memory, Neural Computation. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
+- Werbos P (1990): Backpropagation Through Time: What It Does and How to Do It
+[Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=58337) (early review paper)
+
+
+# Reservoir Computing
+- Jaeger H (2001), The echo state approach to analysing and training recurrent neural networks-with an
+erratum note, German National Research Center for Information Technology GMD Technical Report. [pdf]()
+- Jaeger H (2007), [Scholarpedia](http://www.scholarpedia.org/article/Echo_state_network), 2(9):2330.
+
 
 # Gaussian processes
 
@@ -90,6 +100,3 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 # Theory of computation
 
 - Turing, AM (1936): On Computable Numbers, with an Application to the Entscheidungsproblem [Proc. London Math. Soc.](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230) [(correction 1937)](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-43.6.544) (proof of the decision problem)
-
-
-
