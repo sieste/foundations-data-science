@@ -88,7 +88,7 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 # Reservoir Computing
 - Jaeger H (2001): The echo state approach to analysing and training recurrent neural networks-with an
 erratum note, German National Research Center for Information Technology GMD Technical Report. [pdf]()
-- Jaeger H (2007): [Scholarpedia](http://www.scholarpedia.org/article/Echo_state_network), 2(9):2330.
+- Jaeger H (2007): Echo state Networks [Scholarpedia](http://www.scholarpedia.org/article/Echo_state_network), 2(9):2330.
 
 
 # Gaussian processes
