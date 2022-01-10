@@ -1,17 +1,16 @@
 # Foundations of Data Science: A Bibliography
 
-
-https://www.inferentialthinking.com/chapters/intro
-This is the textbook for the Foundations of Data Science class at UC Berkeley.
-
-data8.org
-UC Berkeley Foundations of Data Science Course
-
-https://www.cs.cornell.edu/jeh/book.pdf
-Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan (2018) 466 pages
+This bibliography is a collection of foundational papers and review papers of subfields of Mathematics and Computer Science that build the modern foundations of Data Science. This site is work in progress, and as such this collection is necessarily opinionated and incomplete. Contributions in the form of Issues and Pull Requests are welcome.
 
 
-# Interpretations of Probability
+## General
+
+- https://www.inferentialthinking.com/chapters/intro This is the textbook for the Foundations of Data Science class at UC Berkeley.
+- <data8.org> UC Berkeley Foundations of Data Science Course
+- <https://www.cs.cornell.edu/jeh/book.pdf> Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan (2018) 466 pages
+
+
+## Interpretations of Probability
 
 - **Review paper**: Hájek, Alan, "Interpretations of Probability", The Stanford Encyclopedia of Philosophy (Fall 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2019/entries/probability-interpret/>.
 - **Paper** R. A. Fisher (1922) On the mathematical foundations of theoretical statistics [RSS](https://royalsocietypublishing.org/doi/10.1098/rsta.1922.0009)
@@ -21,19 +20,12 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 - **Book** Jaynes ET (1995): Probability Theory: The Logic of Science [bayes.wustl.edu](https://bayes.wustl.edu/etj/prob/book.pdf)
 
 
-
-# The p-value controversy
-
-- Berger JO, Sellke T (1985): Testing a Point Null Hypothesis: The Irreconcilability of P Values and Evidence [JASA](https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478397)
-
-
-# Important Algorithms
+## Important Algorithms
 
 - **Paper** Dempster AP, Laird NM, Rubin DB (1977): Maximum likelihood from incomplete data via the EM algorithm [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1977.tb01600.x) (Expectation-maximisation algorithm)
 - **Paper** Hastings WK (1970): Monte Carlo Sampling Methods Using Markov Chains and Their Applications [Biometrika](https://www.jstor.org/stable/2334940) (Markov Chain Monte Carlo)
 - **Paper** Geman S, Geman D (1984): Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images [IEEE Transactions](https://ieeexplore.ieee.org/document/4767596) (Gibbs sampling)
 - **Paper** Hartigan and Wong (1979): Algorithm AS 136: A k-means clustering algorithm [JSTOR](https://www.jstor.org/stable/2346830)
-
 
 
 # Linear modelling
@@ -52,7 +44,6 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 - **Paper** Neyman J, Pearson ES (1933) "IX. On the problem of the most efficient tests of statistical hypotheses" [Phil. Trans. Roy. Soc. A](https://royalsocietypublishing.org/doi/10.1098/rsta.1933.0009) (Neyman-Pearson Theorem)
 - **Paper** Akaike, H (1974), "A new look at the statistical model identification" [IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/document/1100705) (Akaike information criterion)
 - **Paper** Stone, M (1974) "Cross‐validatory choice and assessment of statistical predictions" [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1974.tb00994.x) (cross validation)
-
 
 
 # Dimensionality reduction
@@ -90,11 +81,10 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 - **Paper** Hochreiter S, Schmidhuber J (1997): Long short-term memory, Neural Computation. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
 
 
-
 # Reservoir Computing
-- Jaeger H (2010): The echo state approach to analysing and training recurrent neural networks-with an
+- **Paper** Jaeger H (2010): The echo state approach to analysing and training recurrent neural networks-with an
 erratum note, German National Research Center for Information Technology GMD Technical Report. [pdf](https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf)
-- Jaeger H (2007): Echo state Networks [Scholarpedia](http://www.scholarpedia.org/article/Echo_state_network), 2(9):2330.
+- **Review** Jaeger H (2007): Echo state Networks [Scholarpedia](http://www.scholarpedia.org/article/Echo_state_network), 2(9):2330.
 
 
 # Gaussian processes
@@ -111,11 +101,6 @@ erratum note, German National Research Center for Information Technology GMD Tec
 - **Paper** McCarthy J (1960): Recursive Functions of Symbolic Expressions and Their Computation by Machine [stanford.edu](http://www-formal.stanford.edu/jmc/recursive.html)
 
 
-# Theory of computation
-
-- Turing, AM (1936): On Computable Numbers, with an Application to the Entscheidungsproblem [Proc. London Math. Soc.](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230) [(correction 1937)](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-43.6.544) (proof of the decision problem)
-
-
 # Causal Inference
 
 - **Review paper** Pearl J (2003): Statistics and causal inference: A review. [Test](https://link.springer.com/article/10.1007/BF02595718)
@@ -126,6 +111,4 @@ erratum note, German National Research Center for Information Technology GMD Tec
 - **Book** MacKay DJ (2003): Information theory, inference and learning algorithms. [inference.org.uk](http://www.inference.org.uk/mackay/itila/)
 - **Paper** Kullback S, Leibler RA (1951): On Information and sufficiency [JSTOR](https://www.jstor.org/stable/2236703)
 - **Paper** Jaynes ET (1957): Information Theory and Statistical Mechanics [aps.org](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)
-
-
 
