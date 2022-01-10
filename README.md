@@ -67,15 +67,13 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 - **Paper** Wickham H (2007): A Layered Grammar of Graphics [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098)
 
 
-
 # Data analysis
 
-- Good IJ (1983): The Philosophy of Exploratory Data Analysis [Philosophy of Science](https://www.journals.uchicago.edu/doi/abs/10.1086/289110)
-- Wickham H. (2001): The Split-Apply-Combine Strategy for Data Analysis [J Stat Soft](https://www.jstatsoft.org/article/view/v040i01)
-- McKinney, W (2011): "pandas: A foundational python library for data analysis and statistics." [pdf](https://www.dlr.de/sc/portaldata/15/resources/dokumente/pyhpc2011/submissions/pyhpc2011_submission_9.pdf)
-- Wickham H. (2014): Tidy data [J Stat Soft](https://www.jstatsoft.org/article/view/v059i10)
-- Broman KW, Woo KH (2018): Data Organization in Spreadsheets [The American Statistician](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-
+- **Paper** Good IJ (1983): The Philosophy of Exploratory Data Analysis [Philosophy of Science](https://www.journals.uchicago.edu/doi/abs/10.1086/289110)
+- **Paper** Wickham H. (2001): The Split-Apply-Combine Strategy for Data Analysis [J Stat Soft](https://www.jstatsoft.org/article/view/v040i01)
+- **Paper** McKinney, W (2011): "pandas: A foundational python library for data analysis and statistics." [pdf](https://www.dlr.de/sc/portaldata/15/resources/dokumente/pyhpc2011/submissions/pyhpc2011_submission_9.pdf)
+- **Paper** Wickham H. (2014): Tidy data [J Stat Soft](https://www.jstatsoft.org/article/view/v059i10)
+- **Paper** Broman KW, Woo KH (2018): Data Organization in Spreadsheets [The American Statistician](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 
 # Natural language processing
