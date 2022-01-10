@@ -99,7 +99,10 @@ erratum note, German National Research Center for Information Technology GMD Tec
 
 # Gaussian processes
 
-- Rasmussen CE, Williams CKI (2006): Gaussian Processes for Machine Learning [website](http://www.gaussianprocess.org/gpml/)
+- **Book** Rasmussen CE, Williams CKI (2006): Gaussian Processes for Machine Learning [gaussianprocess.org](http://www.gaussianprocess.org/gpml/)
+- **Paper** Williams CKI, Rasmussen CE (1996): Gaussian processes for regression.  [Advances in Neural Information Processing Systems](http://publications.aston.ac.uk/id/eprint/651/)
+- **Paper** Damianou A, Lawrence ND (2013): Deep Gaussian Processes [Proceedings of the Sixteenth International Conference on Artificial Intelligence and Statistics](http://proceedings.mlr.press/v31/damianou13a)
+- **Paper** Williams CKI, Barber D (1998): Bayesian classification with Gaussian processes [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/abstract/document/735807)
 
 
 
