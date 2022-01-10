@@ -28,7 +28,7 @@ This bibliography is a collection of foundational papers and review papers of su
 - **Paper** Hartigan and Wong (1979): Algorithm AS 136: A k-means clustering algorithm [JSTOR](https://www.jstor.org/stable/2346830)
 
 
-# Linear modelling
+## Linear modelling
 
 - **Review paper** Hocking RR (1983): Developments in Linear Regression Methodology: 1959–l982 [Technometrics](https://www.tandfonline.com/doi/abs/10.1080/00401706.1983.10487871)
 - **Review paper** Hocking RR (1976): The Analysis and Selection of Variables in Linear Regression [JSTOR](https://www.jstor.org/stable/2529336)
@@ -38,7 +38,7 @@ This bibliography is a collection of foundational papers and review papers of su
 - **Paper** Pearson K (1901): On lines and planes of closest fit to systems of points in space [Journal](https://www.tandfonline.com/doi/abs/10.1080/14786440109462720) (Principal Components Analysis)
 
 
-# Model selection
+## Model selection
 
 - **Paper** Wilks, SS (1938) "The Large-Sample Distribution of the Likelihood Ratio for Testing Composite Hypotheses" [Ann. Math. Stat.](https://dx.doi.org/10.1214/aoms/1177732360) (Likelihood ratio test)
 - **Paper** Neyman J, Pearson ES (1933) "IX. On the problem of the most efficient tests of statistical hypotheses" [Phil. Trans. Roy. Soc. A](https://royalsocietypublishing.org/doi/10.1098/rsta.1933.0009) (Neyman-Pearson Theorem)
@@ -46,13 +46,13 @@ This bibliography is a collection of foundational papers and review papers of su
 - **Paper** Stone, M (1974) "Cross‐validatory choice and assessment of statistical predictions" [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1974.tb00994.x) (cross validation)
 
 
-# Data visualisation
+## Data visualisation
 
 - **Book** Tufte E.: The Visual Display of Quantitative Information [Aesthetics and Technique in Data Graphical Design (Chapter 9)](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Tufte01-2.pdf)
 - **Paper** Wickham H (2007): A Layered Grammar of Graphics [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098)
 
 
-# Data analysis
+## Data analysis
 
 - **Paper** Good IJ (1983): The Philosophy of Exploratory Data Analysis [Philosophy of Science](https://www.journals.uchicago.edu/doi/abs/10.1086/289110)
 - **Paper** Wickham H. (2001): The Split-Apply-Combine Strategy for Data Analysis [J Stat Soft](https://www.jstatsoft.org/article/view/v040i01)
@@ -61,13 +61,13 @@ This bibliography is a collection of foundational papers and review papers of su
 - **Paper** Broman KW, Woo KH (2018): Data Organization in Spreadsheets [The American Statistician](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 
-# Natural language processing
+## Natural language processing
 
 - **Review paper** Cambria E, White B (2014): Jumping NLP Curves: A Review of Natural Language Processing Research [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/abstract/document/6786458)
 - **Paper** Blei DM, Ng AY, Jordan MI (2003): Latent Dirichlet Allocation [pdf](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
 
-# Artificial Neural Networks
+## Artificial Neural Networks
 
 - **Paper** Rosenblatt F (1958): The perceptron: A probabilistic model for information storage and organization in the brain. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
 - **Paper** Werbos P (1990): Backpropagation Through Time: What It Does and How to Do It
@@ -75,13 +75,13 @@ This bibliography is a collection of foundational papers and review papers of su
 - **Paper** Hochreiter S, Schmidhuber J (1997): Long short-term memory, Neural Computation. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
 
 
-# Reservoir Computing
+## Reservoir Computing
 - **Paper** Jaeger H (2010): The echo state approach to analysing and training recurrent neural networks-with an
 erratum note, German National Research Center for Information Technology GMD Technical Report. [pdf](https://www.ai.rug.nl/minds/uploads/EchoStatesTechRep.pdf)
 - **Review** Jaeger H (2007): Echo state Networks [Scholarpedia](http://www.scholarpedia.org/article/Echo_state_network), 2(9):2330.
 
 
-# Gaussian processes
+## Gaussian processes
 
 - **Book** Rasmussen CE, Williams CKI (2006): Gaussian Processes for Machine Learning [gaussianprocess.org](http://www.gaussianprocess.org/gpml/)
 - **Paper** Williams CKI, Rasmussen CE (1996): Gaussian processes for regression.  [Advances in Neural Information Processing Systems](http://publications.aston.ac.uk/id/eprint/651/)
@@ -89,18 +89,18 @@ erratum note, German National Research Center for Information Technology GMD Tec
 - **Paper** Williams CKI, Barber D (1998): Bayesian classification with Gaussian processes [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/abstract/document/735807)
 
 
-# Theory of computation
+## Theory of computation
 
 - **Paper** Turing, AM (1936): On Computable Numbers, with an Application to the Entscheidungsproblem [Proc. London Math. Soc.](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230) [(correction 1937)](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-43.6.544) (proof of the decision problem)
 - **Paper** McCarthy J (1960): Recursive Functions of Symbolic Expressions and Their Computation by Machine [stanford.edu](http://www-formal.stanford.edu/jmc/recursive.html)
 
 
-# Causal Inference
+## Causal Inference
 
 - **Review paper** Pearl J (2003): Statistics and causal inference: A review. [Test](https://link.springer.com/article/10.1007/BF02595718)
 
 
-# Information theory
+## Information theory
 
 - **Book** MacKay DJ (2003): Information theory, inference and learning algorithms. [inference.org.uk](http://www.inference.org.uk/mackay/itila/)
 - **Paper** Kullback S, Leibler RA (1951): On Information and sufficiency [JSTOR](https://www.jstor.org/stable/2236703)
