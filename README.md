@@ -105,6 +105,11 @@ erratum note, German National Research Center for Information Technology GMD Tec
 - **Paper** Williams CKI, Barber D (1998): Bayesian classification with Gaussian processes [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/abstract/document/735807)
 
 
+# Theory of computation
+
+- **Paper** Turing, AM (1936): On Computable Numbers, with an Application to the Entscheidungsproblem [Proc. London Math. Soc.](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-42.1.230) [(correction 1937)](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/plms/s2-43.6.544) (proof of the decision problem)
+- **Paper** McCarthy J (1960): Recursive Functions of Symbolic Expressions and Their Computation by Machine [stanford.edu](http://www-formal.stanford.edu/jmc/recursive.html)
+
 
 # Theory of computation
 
