@@ -61,11 +61,10 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 - Hartigan and Wong (1979): Algorithm AS 136: A k-means clustering algorithm [link](https://www.jstor.org/stable/2346830)
 
 
-
 # Data visualisation
 
-- Tufte E.: The Visual Display of Quantitative Information [Aesthetics and Technique in Data Graphical Design (Chapter 9)](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Tufte01-2.pdf)
-- Wickham H (2007): A Layered Grammar of Graphics [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098)
+- **Book** Tufte E.: The Visual Display of Quantitative Information [Aesthetics and Technique in Data Graphical Design (Chapter 9)](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Tufte01-2.pdf)
+- **Paper** Wickham H (2007): A Layered Grammar of Graphics [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098)
 
 
 
