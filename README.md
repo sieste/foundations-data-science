@@ -36,10 +36,15 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 
 
 
-# Statistical modelling
+# Linear modelling
 
-- Nelder JA, Wedderburn RWM (1972): Generalized Linear Models
+- **Review paper** Hocking RR (1983): Developments in Linear Regression Methodology: 1959–l982 [Technometrics](https://www.tandfonline.com/doi/abs/10.1080/00401706.1983.10487871)
+- **Review paper** Hocking RR (1976): The Analysis and Selection of Variables in Linear Regression [JSTOR](https://www.jstor.org/stable/2529336)
+- **Paper** Nelder JA, Wedderburn RWM (1972): Generalized Linear Models
  [JRSS-A](https://rss.onlinelibrary.wiley.com/doi/abs/10.2307/2344614)
+- **Review paper** Holan SH et al. (2010): The ARMA alphabet soup: A tour of ARMA model variants [Statistics Surveys](https://projecteuclid.org/journals/statistics-surveys/volume-4/issue-none/The-ARMA-alphabet-soup--A-tour-of-ARMA-model/10.1214/09-SS060.full)
+- **Paper** Pearson K (1901): On lines and planes of closest fit to systems of points in space [Journal](https://www.tandfonline.com/doi/abs/10.1080/14786440109462720) (Principal Components Analysis)
+
 
 
 # Statistical model selection
