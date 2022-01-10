@@ -27,11 +27,13 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 - Berger JO, Sellke T (1985): Testing a Point Null Hypothesis: The Irreconcilability of P Values and Evidence [JASA](https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478397)
 
 
-# Fundamental Algorithms
+# Important Algorithms
 
-- Dempster AP, Laird NM, Rubin DB (1977): Maximum likelihood from incomplete data via the EM algorithm [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1977.tb01600.x) (Expectation-maximisation algorithm)
-- Hastings WK (1970): Monte Carlo Sampling Methods Using Markov Chains and Their Applications [Biometrika](https://www.jstor.org/stable/2334940) (Markov Chain Monte Carlo)
-- Geman S, Geman D (1984): Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images [IEEE Transactions](https://ieeexplore.ieee.org/document/4767596) (Gibbs sampling)
+- **Paper** Dempster AP, Laird NM, Rubin DB (1977): Maximum likelihood from incomplete data via the EM algorithm [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1977.tb01600.x) (Expectation-maximisation algorithm)
+- **Paper** Hastings WK (1970): Monte Carlo Sampling Methods Using Markov Chains and Their Applications [Biometrika](https://www.jstor.org/stable/2334940) (Markov Chain Monte Carlo)
+- **Paper** Geman S, Geman D (1984): Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images [IEEE Transactions](https://ieeexplore.ieee.org/document/4767596) (Gibbs sampling)
+- **Paper** Hartigan and Wong (1979): Algorithm AS 136: A k-means clustering algorithm [JSTOR](https://www.jstor.org/stable/2346830)
+
 
 
 # Statistical modelling
