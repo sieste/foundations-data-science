@@ -121,3 +121,11 @@ erratum note, German National Research Center for Information Technology GMD Tec
 - **Review paper** Pearl J (2003): Statistics and causal inference: A review. [Test](https://link.springer.com/article/10.1007/BF02595718)
 
 
+# Information theory
+
+- **Book** MacKay DJ (2003): Information theory, inference and learning algorithms. [inference.org.uk](http://www.inference.org.uk/mackay/itila/)
+- **Paper** Kullback S, Leibler RA (1951): On Information and sufficiency [JSTOR](https://www.jstor.org/stable/2236703)
+- **Paper** Jaynes ET (1957): Information Theory and Statistical Mechanics [aps.org](https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620)
+
+
+
