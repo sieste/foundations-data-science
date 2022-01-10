@@ -46,13 +46,12 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 - **Paper** Pearson K (1901): On lines and planes of closest fit to systems of points in space [Journal](https://www.tandfonline.com/doi/abs/10.1080/14786440109462720) (Principal Components Analysis)
 
 
+# Model selection
 
-# Statistical model selection
-
-- Wilks, SS (1938) "The Large-Sample Distribution of the Likelihood Ratio for Testing Composite Hypotheses" [Ann. Math. Stat.](https://dx.doi.org/10.1214/aoms/1177732360) (Likelihood ratio test)
-- Neyman J, Pearson ES (1933) "IX. On the problem of the most efficient tests of statistical hypotheses" [Phil. Trans. Roy. Soc. A](https://royalsocietypublishing.org/doi/10.1098/rsta.1933.0009) (Neyman-Pearson Theorem for finding most powerful tests)
-- Akaike, H (1974), "A new look at the statistical model identification" [IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/document/1100705) (Akaike information criterion AIC)
-- Stone, M (1974) "Cross‐validatory choice and assessment of statistical predictions" [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1974.tb00994.x) (cross validation)
+- **Paper** Wilks, SS (1938) "The Large-Sample Distribution of the Likelihood Ratio for Testing Composite Hypotheses" [Ann. Math. Stat.](https://dx.doi.org/10.1214/aoms/1177732360) (Likelihood ratio test)
+- **Paper** Neyman J, Pearson ES (1933) "IX. On the problem of the most efficient tests of statistical hypotheses" [Phil. Trans. Roy. Soc. A](https://royalsocietypublishing.org/doi/10.1098/rsta.1933.0009) (Neyman-Pearson Theorem)
+- **Paper** Akaike, H (1974), "A new look at the statistical model identification" [IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/document/1100705) (Akaike information criterion)
+- **Paper** Stone, M (1974) "Cross‐validatory choice and assessment of statistical predictions" [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1974.tb00994.x) (cross validation)
 
 
 
