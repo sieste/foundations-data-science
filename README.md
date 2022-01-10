@@ -46,12 +46,6 @@ This bibliography is a collection of foundational papers and review papers of su
 - **Paper** Stone, M (1974) "Cross‐validatory choice and assessment of statistical predictions" [JRSS-B](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1974.tb00994.x) (cross validation)
 
 
-# Dimensionality reduction
-
-- Pearson K (1901): On lines and planes of closest fit to systems of points in space [Journal](https://www.tandfonline.com/doi/abs/10.1080/14786440109462720) (Principal Components Analysis)
-- Hartigan and Wong (1979): Algorithm AS 136: A k-means clustering algorithm [link](https://www.jstor.org/stable/2346830)
-
-
 # Data visualisation
 
 - **Book** Tufte E.: The Visual Display of Quantitative Information [Aesthetics and Technique in Data Graphical Design (Chapter 9)](https://webspace.science.uu.nl/~telea001/uploads/VACourse/Tufte01-2.pdf)
