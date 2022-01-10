@@ -78,7 +78,9 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 
 # Natural language processing
 
-- Blei DM, Ng AY, Jordan MI (2003): Latent Dirichlet Allocation [pdf](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+- **Review paper** Cambria E, White B (2014): Jumping NLP Curves: A Review of Natural Language Processing Research [IEEE Computational Intelligence Magazine](https://ieeexplore.ieee.org/abstract/document/6786458)
+- **Paper** Blei DM, Ng AY, Jordan MI (2003): Latent Dirichlet Allocation [pdf](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
 
 # Artificial Neural Networks
 
