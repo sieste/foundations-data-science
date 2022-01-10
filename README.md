@@ -112,3 +112,4 @@ erratum note, German National Research Center for Information Technology GMD Tec
 - **Paper** Knuth (1984): Literate Programming [literateprogramming.com/](http://www.literateprogramming.com/knuthweb.pdf)
 - **Paper** Perkel JM (2018): Why Jupyter is data scientists' computational notebook of choice [nature.com](https://www.nature.com/articles/d41586-018-07196-1/)
 - **Book** Xie Y, Dervieux C, Riederer E (2022): R Markdown Cookbook [bookdown.org](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
