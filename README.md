@@ -84,12 +84,11 @@ Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan 
 
 # Artificial Neural Networks
 
-- Rosenblatt F (1958): The perceptron: A probabilistic model for information storage and organization in the brain. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
-- Werbos P (1990): Backpropagation Through Time: What It Does and How to Do It
+- **Paper** Rosenblatt F (1958): The perceptron: A probabilistic model for information storage and organization in the brain. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
+- **Paper** Werbos P (1990): Backpropagation Through Time: What It Does and How to Do It
 [Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=58337) (early review paper)
-- Hochreiter S, Schmidhuber J (1997): Long short-term memory, Neural Computation. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
-- Werbos P (1990): Backpropagation Through Time: What It Does and How to Do It
-[Journal](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=58337) (early review paper)
+- **Paper** Hochreiter S, Schmidhuber J (1997): Long short-term memory, Neural Computation. [pdf](https://www.neural-networks.io/papers/1958-the-perceptron:-a-probabilistic-model-for-information-storage-and-organization-in-the-brain.pdf)
+
 
 
 # Reservoir Computing
