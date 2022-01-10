@@ -1,4 +1,4 @@
-# Foundations of Data Science Bibliography
+# Foundations of Data Science: A Bibliography
 
 
 https://www.inferentialthinking.com/chapters/intro
@@ -11,13 +11,15 @@ https://www.cs.cornell.edu/jeh/book.pdf
 Foundations of Data Science, by Avrim Blum, John Hopcroft, and Ravindran Kannan (2018) 466 pages
 
 
+# Interpretations of Probability
 
+- **Review paper**: Hájek, Alan, "Interpretations of Probability", The Stanford Encyclopedia of Philosophy (Fall 2019 Edition), Edward N. Zalta (ed.), URL = <https://plato.stanford.edu/archives/fall2019/entries/probability-interpret/>.
+- **Paper** R. A. Fisher (1922) On the mathematical foundations of theoretical statistics [RSS](https://royalsocietypublishing.org/doi/10.1098/rsta.1922.0009)
+- **Book** Kolmogorov (1933): Foundations of the theory of probability [kolmogorov.com](http://kolmogorov.com/Foundations.html)
+- **Paper** Jaynes ET (1968): Prior probabilities [bayes.wustl.edu](https://bayes.wustl.edu/etj/articles/prior.pdf)
+- **Paper** Berger JO, Sellke T (1985): Testing a Point Null Hypothesis: The Irreconcilability of P Values and Evidence [JASA](https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478397) (on the p-value controversy)
+- **Book** Jaynes ET (1995): Probability Theory: The Logic of Science [bayes.wustl.edu](https://bayes.wustl.edu/etj/prob/book.pdf)
 
-# Probability (Foundations)
-
-- R. A. Fisher (1922) On the mathematical foundations of theoretical statistics [RSS](https://royalsocietypublishing.org/doi/10.1098/rsta.1922.0009)
-- Kolmogorov (1933): Foundations of the theory of probability [kolmogorov.com](http://kolmogorov.com/Foundations.html)
-- Jaynes ET (1968): Prior probabilities [bayes.wustl.edu](https://bayes.wustl.edu/etj/articles/prior.pdf)
 
 
 # The p-value controversy
