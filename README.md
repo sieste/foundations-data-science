@@ -113,3 +113,7 @@ erratum note, German National Research Center for Information Technology GMD Tec
 - **Paper** Perkel JM (2018): Why Jupyter is data scientists' computational notebook of choice [nature.com](https://www.nature.com/articles/d41586-018-07196-1/)
 - **Book** Xie Y, Dervieux C, Riederer E (2022): R Markdown Cookbook [bookdown.org](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
+
+## Graphical models
+
+- **Review paper** Smyth (1997): Belief networks, hidden Markov models, and Markov random fields: A unifying view [Pattern Recognition Letters](https://doi.org/10.1016/S0167-8655(97)01050-7)
