@@ -117,3 +117,9 @@ erratum note, German National Research Center for Information Technology GMD Tec
 ## Graphical models
 
 - **Review paper** Smyth (1997): Belief networks, hidden Markov models, and Markov random fields: A unifying view [Pattern Recognition Letters](https://doi.org/10.1016/S0167-8655(97)01050-7)
+
+
+## Monte Carlo methods
+
+- **Review paper** MacKay (1998): Introduction to Monte Carlo methods [Learning in Graphical Models](https://link.springer.com/chapter/10.1007/978-94-011-5014-9_7) [pdf](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/motionplanning/papers/sbp_papers/kalman/intro_montecarlo.pdf)
+
