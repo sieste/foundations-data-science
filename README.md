@@ -123,3 +123,8 @@ erratum note, German National Research Center for Information Technology GMD Tec
 
 - **Review paper** MacKay (1998): Introduction to Monte Carlo methods [Learning in Graphical Models](https://link.springer.com/chapter/10.1007/978-94-011-5014-9_7) [pdf](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/motionplanning/papers/sbp_papers/kalman/intro_montecarlo.pdf)
 
+
+## Deep learning
+
+- **Book** Goodfellow, Bengio, Courville (2016): Deep Learning [deeplearningbook.org](https://www.deeplearningbook.org/)
+- **Review paper** LeCun, Bengio, Hinton (2015): Deep Learning [Nature Review](https://www.nature.com/articles/nature14539)
